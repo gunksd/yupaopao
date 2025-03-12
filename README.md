@@ -1,2 +1,2 @@
 # yupaopao
-website of paopao's airdrop
+website of paopao's airdrop journey
